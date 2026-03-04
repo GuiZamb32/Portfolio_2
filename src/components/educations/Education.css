@@ -1,0 +1,100 @@
+.education {
+  padding: 6rem 5%;
+  background: var(--black);
+}
+
+.section-container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, var(--purple), var(--purple-light));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.education-card {
+  background: linear-gradient(135deg, var(--medium-gray) 0%, var(--dark-gray) 100%);
+  border: 1px solid var(--light-gray);
+  border-radius: 20px;
+  padding: 3rem;
+  max-width: 800px;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.education-card:hover {
+  border-color: var(--purple);
+  box-shadow: 0 20px 40px rgba(168, 85, 247, 0.1);
+}
+
+.glow-effect {
+  position: absolute;
+  top: -50%;
+  right: -50%;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(circle, var(--purple-dark) 0%, transparent 70%);
+  opacity: 0.1;
+  pointer-events: none;
+}
+
+.education-content {
+  position: relative;
+  z-index: 1;
+}
+
+.education-badge {
+  display: inline-block;
+  background: rgba(168, 85, 247, 0.2);
+  color: var(--purple-light);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  border: 1px solid var(--purple-dark);
+}
+
+.education-card h3 {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+  color: var(--white);
+}
+
+.institution {
+  color: var(--gray-text);
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.education-description {
+  color: var(--gray-text);
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+@media (max-width: 768px) {
+  .education-card {
+    padding: 2rem;
+  }
+
+  .education-card h3 {
+    font-size: 1.4rem;
+  }
+
+  .section-title {
+    font-size: 2rem;
+  }
+}

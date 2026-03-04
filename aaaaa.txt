@@ -1,0 +1,24 @@
+portfolio-guilherme/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Navbar/
+│   │   │   ├── Navbar.jsx
+│   │   │   └── Navbar.css
+│   │   ├── Hero/
+│   │   │   ├── Hero.jsx
+│   │   │   └── Hero.css
+│   │   ├── Skills/
+│   │   │   ├── Skills.jsx
+│   │   │   └── Skills.css
+│   │   ├── Education/
+│   │   │   ├── Education.jsx
+│   │   │   └── Education.css
+│   │   └── Contact/
+│   │       ├── Contact.jsx
+│   │       └── Contact.css
+│   ├── App.jsx
+│   ├── App.css
+│   └── index.js
+└── package.json
