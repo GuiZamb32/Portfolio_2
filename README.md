@@ -88,30 +88,6 @@ Portfolio moderno e responsivo com design escuro e detalhes em roxo, apresentand
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuiZamb32&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=a855f7&icon_color=c084fc&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiZamb32&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=a855f7&text_color=ffffff)
-
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Guilherme_Zamboni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-zamboni-000624301/)
-[![GitHub](https://img.shields.io/badge/-GuiZamb32-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuiZamb32)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.zamboni@email.com)
-
-</div>
-
----
-
 ## 🎯 Objetivos Atuais
 
 - 🎓 Concluir graduação em **Ciências de Dados e Inteligência Artificial**
@@ -119,12 +95,3 @@ Portfolio moderno e responsivo com design escuro e detalhes em roxo, apresentand
 - ☁️ Certificações em **Cloud Computing** (AWS/Azure)
 - 🚀 Contribuir para projetos **Open Source**
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GuiZamb32&color=a855f7&style=flat-square" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>⭐ Star nos repositórios que você gostar!</i>
-</p>
